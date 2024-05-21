@@ -1,0 +1,29 @@
+# Node.js & Angular project .gitignore
+
+# Node.js dependencies
+/node_modules
+
+# Angular build artifacts
+/dist
+
+# Environment variables
+.env
+.env.*
+
+# Logs
+*.log
+
+# Build artifacts
+*.js
+*.js.map
+*.css
+*.css.map
+
+# Compiled TypeScript
+*.tsbuildinfo
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
