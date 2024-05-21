@@ -98,13 +98,8 @@ src/
 This structure organizes your Angular application into components, services, models, guards, interceptors, and modules, making it easier to manage and maintain your project. With built-in authentication features, AuthSkeleton provides a solid foundation for building secure and scalable Angular applications.
 
 
-
-
-
-
-
 NODE.JS 
-
+```
 project-root/
 │
 ├── src/
@@ -133,6 +128,7 @@ project-root/
 ├── package.json
 └── README.md
 
+``` 
 
 The file structure described above follows a modular or feature-based architecture pattern, often used in Node.js applications. This architecture emphasizes organizing codebase around features or modules, rather than grouping files by their type (e.g., all controllers in one directory, all models in another).
 
